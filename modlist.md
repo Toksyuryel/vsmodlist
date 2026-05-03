@@ -6,7 +6,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [VS Roofing Mod](<https://mods.vintagestory.at/show/mod/30143>)
 * [Butchering](<https://mods.vintagestory.at/butchering>)
 * ~~[From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)~~
-* ~~[A Culinary Artillery](<https://mods.vintagestory.at/aculinaryartillery>)~~
+* [A Culinary Artillery](<https://mods.vintagestory.at/aculinaryartillery>)
 * ~~[Expanded Foods](<https://mods.vintagestory.at/expandedfoods>)~~
 * [Cartwright's Caravan](<https://mods.vintagestory.at/cartwrightscaravan>)
 * [Shipwright](<https://mods.vintagestory.at/shipwright>)
@@ -27,12 +27,15 @@ Planned modlist for 1.22 Vintage Story server:
 * ~~[Translocator Engineering - Redux Craftability Addon](<https://mods.vintagestory.at/tercraftabilityaddon>)~~
 * [Stoneworks](<https://mods.vintagestory.at/stoneworks>)
 * ~~[Ancient Tools](<https://mods.vintagestory.at/ancienttools>)~~
+* [Infantry Dolabra](<https://mods.vintagestory.at/show/mod/39547>)
 * ~~[Toolsmith](<https://mods.vintagestory.at/toolsmith>)~~
 * [Hide Armor Progression](<https://mods.vintagestory.at/hidearmor>)
 * [Comfy Beds](<https://mods.vintagestory.at/show/mod/48158>)
 * [Bookends](<https://mods.vintagestory.at/bookends>)
 * [Tabletop Games](<https://mods.vintagestory.at/tabletopgames>)
 * ~~[Instruments](<https://mods.vintagestory.at/show/mod/463>)~~
+* [Drunkling's Stoneware Jug](<https://mods.vintagestory.at/show/mod/34724>)
+* [Adventurer's Walking Stick](<https://mods.vintagestory.at/show/mod/34545>)
 * ~~[Expanded Molds](<https://mods.vintagestory.at/expandedmolds>)~~
 * [Wear and Tear](<https://mods.vintagestory.at/wearandtear>)
 
@@ -43,6 +46,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Carry On](<https://mods.vintagestory.at/carryon>)
 * [Blood Trail](<https://mods.vintagestory.at/bloodtrail>)
 * [Footprints](<https://mods.vintagestory.at/footprints>)
+* [Immersive Wood Chopping](<https://mods.vintagestory.at/immersivewoodchopping>)
 * [Salty's Workshop: Scythe Fix](<https://mods.vintagestory.at/fixscythe>)
 * [Shelf Obsessed](<https://mods.vintagestory.at/shelfobsessed>)
 * [BetterEr Prospecting](<https://mods.vintagestory.at/bettererprospecting>)
@@ -63,11 +67,13 @@ Planned modlist for 1.22 Vintage Story server:
 * ~~[Speedometer](<https://mods.vintagestory.at/show/mod/42156>)~~
 * [Temporal Storm Gear](<https://mods.vintagestory.at/temporalstormgear>)
 * ~~[Salty & Proto's Temporal Symphony](<https://mods.vintagestory.at/temporalsymphony>)~~
+* [Handbook Declutterer](<https://mods.vintagestory.at/handbookdeclutterer>)
 
 **Library**
 
 * [Expanded Matter](<https://mods.vintagestory.at/em>)
 * [Jaunt: Entity Movement System](<https://mods.vintagestory.at/jaunt>)
+* [Elk Jaunt Integration](<https://mods.vintagestory.at/elkjaunt>)
 * [ShearLib](<https://mods.vintagestory.at/shearlib>)
 * [Insanity lib](<https://mods.vintagestory.at/insanitylib>)
 * [Attribute Rendering Library](<https://mods.vintagestory.at/attributerenderinglibrary>)
