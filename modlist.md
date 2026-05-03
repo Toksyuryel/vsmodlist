@@ -5,7 +5,9 @@ Planned modlist for 1.22 Vintage Story server:
 * [Draconis](<https://mods.vintagestory.at/draconis>)
 * [VS Roofing Mod](<https://mods.vintagestory.at/show/mod/30143>)
 * [Butchering](<https://mods.vintagestory.at/butchering>)
+* [Fuel Briquettes](<https://mods.vintagestory.at/show/mod/39396>)
 * ~~[From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)~~
+* [Eternal Stew](<https://mods.vintagestory.at/eternalstew>)
 * [A Culinary Artillery](<https://mods.vintagestory.at/aculinaryartillery>)
 * ~~[Expanded Foods](<https://mods.vintagestory.at/expandedfoods>)~~
 * [Cartwright's Caravan](<https://mods.vintagestory.at/cartwrightscaravan>)
@@ -21,7 +23,9 @@ Planned modlist for 1.22 Vintage Story server:
 * [Heraldry: Capes](<https://mods.vintagestory.at/capes>)
 * [Food Shelves](<https://mods.vintagestory.at/foodshelves>)
 * ~~[Purposeful Storage](<https://mods.vintagestory.at/purposefulstorage>)~~
+* [Hanging Storage Vessels](<https://mods.vintagestory.at/show/mod/44822>)
 * [Window Storage](<https://mods.vintagestory.at/windowstorage>)
+* [Sliding Wood Shutters and More!](<https://mods.vintagestory.at/slidingwoodenshutters>)
 * [Temporal Amulets](<https://mods.vintagestory.at/temporalamulets>)
 * [Temporal Prospector](<https://mods.vintagestory.at/temporalprospector>)
 * [Translocator Engineering - Redux](<https://mods.vintagestory.at/translocatorengineeringredux>)
@@ -42,6 +46,7 @@ Planned modlist for 1.22 Vintage Story server:
 
 **Utility**
 
+* [Trait Acquirer Modded Class Support](<https://mods.vintagestory.at/show/mod/36975>)
 * [Smithing Plus](<https://mods.vintagestory.at/smithingplus>)
 * [QP's Chisel Tools](<https://mods.vintagestory.at/chiseltools>)
 * [Carry On](<https://mods.vintagestory.at/carryon>)
@@ -57,6 +62,12 @@ Planned modlist for 1.22 Vintage Story server:
 * ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
 * [Immersive Corpse Drop](<https://mods.vintagestory.at/immersivecorpsedrop>)
 
+**Performance**
+
+* [Synergy](<https://mods.vintagestory.at/synergy>)
+* [OptiTime](<https://mods.vintagestory.at/optitime>)
+* [Tungsten](<https://mods.vintagestory.at/tungsten>)
+
 **Client**
 
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
@@ -64,6 +75,9 @@ Planned modlist for 1.22 Vintage Story server:
 * [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
 * [Auto Map Markers](<https://mods.vintagestory.at/automapmarkers>)
 * ~~[Cartographer](<https://mods.vintagestory.at/nbcartographer>)~~
+* [Geology Map](<https://mods.vintagestory.at/geologymap>)
+* [Infinitum Pickup HUD](<https://mods.vintagestory.at/infinitumpickuphud>)
+* [More HUD Bars](<https://mods.vintagestory.at/morehudbars>)
 * [HUD Clock](<https://mods.vintagestory.at/hudclock>)
 * [Status HUD Continued](<https://mods.vintagestory.at/show/mod/9817>)
 * ~~[Speedometer](<https://mods.vintagestory.at/show/mod/42156>)~~
