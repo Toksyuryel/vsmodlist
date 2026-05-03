@@ -7,6 +7,8 @@ Planned modlist for 1.22 Vintage Story server:
 * [Butchering](<https://mods.vintagestory.at/butchering>)
 * [Fuel Briquettes](<https://mods.vintagestory.at/show/mod/39396>)
 * ~~[From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)~~
+* ~~[OrekiWoof's Simple Immersive Beehive](<https://mods.vintagestory.at/orekiwoofsbeehives>)~~
+* ~~[Olla](<https://mods.vintagestory.at/olla>)~~
 * [Eternal Stew](<https://mods.vintagestory.at/eternalstew>)
 * [A Culinary Artillery](<https://mods.vintagestory.at/aculinaryartillery>)
 * ~~[Expanded Foods](<https://mods.vintagestory.at/expandedfoods>)~~
@@ -24,13 +26,17 @@ Planned modlist for 1.22 Vintage Story server:
 * [Food Shelves](<https://mods.vintagestory.at/foodshelves>)
 * ~~[Purposeful Storage](<https://mods.vintagestory.at/purposefulstorage>)~~
 * [Hanging Storage Vessels](<https://mods.vintagestory.at/show/mod/44822>)
+* ~~[Arrow Barrels](<https://mods.vintagestory.at/arrowbarrels>)~~
 * [Window Storage](<https://mods.vintagestory.at/windowstorage>)
 * [Sliding Wood Shutters and More!](<https://mods.vintagestory.at/slidingwoodenshutters>)
 * [Temporal Amulets](<https://mods.vintagestory.at/temporalamulets>)
 * [Temporal Prospector](<https://mods.vintagestory.at/temporalprospector>)
 * [Translocator Engineering - Redux](<https://mods.vintagestory.at/translocatorengineeringredux>)
 * ~~[Translocator Engineering - Redux Craftability Addon](<https://mods.vintagestory.at/tercraftabilityaddon>)~~
+* [NDL ExpandedGrowth (Tree Growth Module)](<https://mods.vintagestory.at/ndlexpandedgrowthtrees>)
+* [NDL ExpandedGrowth (Mushroom Growth Module)](<https://mods.vintagestory.at/ndlexpandedgrowthmushrooms>)
 * [Stoneworks](<https://mods.vintagestory.at/stoneworks>)
+* [Stone Quarry Standalone Repack](<https://mods.vintagestory.at/stonequarystandalonerepack>)
 * ~~[Ancient Tools](<https://mods.vintagestory.at/ancienttools>)~~
 * [Infantry Dolabra](<https://mods.vintagestory.at/show/mod/39547>)
 * ~~[Toolsmith](<https://mods.vintagestory.at/toolsmith>)~~
@@ -56,11 +62,15 @@ Planned modlist for 1.22 Vintage Story server:
 * [Salty's Workshop: Scythe Fix](<https://mods.vintagestory.at/fixscythe>)
 * [Shelf Obsessed](<https://mods.vintagestory.at/shelfobsessed>)
 * [BetterEr Prospecting](<https://mods.vintagestory.at/bettererprospecting>)
+* ~~[Juicy Ores \[Finished\]](<https://mods.vintagestory.at/juicyores>)~~
 * [No Roofing Recipes](<https://mods.vintagestory.at/noroofingrecipes>)
+* [Salty's Manual: Dishes](<https://mods.vintagestory.at/manualdishes>)
+* [Salty's Manual: Dough](<https://mods.vintagestory.at/manualdough>)
 * [Salty's Mists of Stability](<https://mods.vintagestory.at/mistsofstability>)
 * [Blacksmith Name](<https://mods.vintagestory.at/show/mod/1910>)
 * ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
 * [Immersive Corpse Drop](<https://mods.vintagestory.at/immersivecorpsedrop>)
+* ~~[Boat Tags](<https://mods.vintagestory.at/boattags>)~~
 
 **Performance**
 
@@ -70,6 +80,8 @@ Planned modlist for 1.22 Vintage Story server:
 
 **Client**
 
+* [Glassview](<https://mods.vintagestory.at/show/mod/36414>)
+* ~~[OrekiWoof's Roaming Bees](<https://mods.vintagestory.at/roamingbees>)~~
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
 * ~~[Kemono](<https://mods.vintagestory.at/kemono>)~~
 * [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
