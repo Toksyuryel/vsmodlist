@@ -21,6 +21,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Heraldry: Capes](<https://mods.vintagestory.at/capes>)
 * [Food Shelves](<https://mods.vintagestory.at/foodshelves>)
 * ~~[Purposeful Storage](<https://mods.vintagestory.at/purposefulstorage>)~~
+* [Window Storage](<https://mods.vintagestory.at/windowstorage>)
 * [Temporal Amulets](<https://mods.vintagestory.at/temporalamulets>)
 * [Temporal Prospector](<https://mods.vintagestory.at/temporalprospector>)
 * [Translocator Engineering - Redux](<https://mods.vintagestory.at/translocatorengineeringredux>)
@@ -41,7 +42,7 @@ Planned modlist for 1.22 Vintage Story server:
 
 **Utility**
 
-* ~~[Smithing Plus](<https://mods.vintagestory.at/smithingplus>)~~
+* [Smithing Plus](<https://mods.vintagestory.at/smithingplus>)
 * [QP's Chisel Tools](<https://mods.vintagestory.at/chiseltools>)
 * [Carry On](<https://mods.vintagestory.at/carryon>)
 * [Blood Trail](<https://mods.vintagestory.at/bloodtrail>)
@@ -54,6 +55,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Salty's Mists of Stability](<https://mods.vintagestory.at/mistsofstability>)
 * [Blacksmith Name](<https://mods.vintagestory.at/show/mod/1910>)
 * ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
+* [Immersive Corpse Drop](<https://mods.vintagestory.at/immersivecorpsedrop>)
 
 **Client**
 
@@ -75,8 +77,11 @@ Planned modlist for 1.22 Vintage Story server:
 * [Jaunt: Entity Movement System](<https://mods.vintagestory.at/jaunt>)
 * [Elk Jaunt Integration](<https://mods.vintagestory.at/elkjaunt>)
 * [ShearLib](<https://mods.vintagestory.at/shearlib>)
+* [Window Storage lib](<https://mods.vintagestory.at/windowstoragelib>)
+* [HUD Shelf](<https://mods.vintagestory.at/hudshelf>)
 * [Insanity lib](<https://mods.vintagestory.at/insanitylib>)
 * [Attribute Rendering Library](<https://mods.vintagestory.at/attributerenderinglibrary>)
 * [Algernon's Terrain Sampler Lib](<https://mods.vintagestory.at/algernonsterrainsampler>)
 * [Config lib](<https://mods.vintagestory.at/configlib>)
+* [Auto Config lib](<https://mods.vintagestory.at/autoconfiglib>)
 * [ImGui](<https://mods.vintagestory.at/imgui>)
