@@ -81,7 +81,7 @@ Planned modlist for 1.22 Vintage Story server:
 
 **Client**
 
-* [Glassview](<https://mods.vintagestory.at/show/mod/36414>)
+* ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
 * ~~[OrekiWoof's Roaming Bees](<https://mods.vintagestory.at/roamingbees>)~~
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
 * [Kemono](<https://mods.vintagestory.at/kemono>)
