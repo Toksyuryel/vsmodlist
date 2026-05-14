@@ -102,7 +102,7 @@ Planned modlist for 1.22 Vintage Story server:
 
 * [Expanded Matter](<https://mods.vintagestory.at/em>)
 * [Jaunt: Entity Movement System](<https://mods.vintagestory.at/jaunt>)
-* [Elk Jaunt Integration](<https://mods.vintagestory.at/elkjaunt>)
+* ~~[Elk Jaunt Integration](<https://mods.vintagestory.at/elkjaunt>)~~
 * [ShearLib](<https://mods.vintagestory.at/shearlib>)
 * [Window Storage lib](<https://mods.vintagestory.at/windowstoragelib>)
 * [HUD Shelf](<https://mods.vintagestory.at/hudshelf>)
