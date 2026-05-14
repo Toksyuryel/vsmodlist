@@ -26,7 +26,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Food Shelves](<https://mods.vintagestory.at/foodshelves>)
 * ~~[Purposeful Storage](<https://mods.vintagestory.at/purposefulstorage>)~~
 * [Hanging Storage Vessels](<https://mods.vintagestory.at/show/mod/44822>)
-* ~~[Arrow Barrels](<https://mods.vintagestory.at/arrowbarrels>)~~
+* [Arrow Barrels](<https://mods.vintagestory.at/arrowbarrels>)
 * [Window Storage](<https://mods.vintagestory.at/windowstorage>)
 * [Sliding Wood Shutters and More!](<https://mods.vintagestory.at/slidingwoodenshutters>)
 * [Temporal Amulets](<https://mods.vintagestory.at/temporalamulets>)
@@ -63,6 +63,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Shelf Obsessed](<https://mods.vintagestory.at/shelfobsessed>)
 * [BetterEr Prospecting](<https://mods.vintagestory.at/bettererprospecting>)
 * ~~[Juicy Ores \[Finished\]](<https://mods.vintagestory.at/juicyores>)~~
+* [Visible Ores and Minerals](<https://mods.vintagestory.at/visibleoresandminerals>)
 * [No Roofing Recipes](<https://mods.vintagestory.at/noroofingrecipes>)
 * [Salty's Manual: Dishes](<https://mods.vintagestory.at/manualdishes>)
 * [Salty's Manual: Dough](<https://mods.vintagestory.at/manualdough>)
@@ -83,7 +84,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Glassview](<https://mods.vintagestory.at/show/mod/36414>)
 * ~~[OrekiWoof's Roaming Bees](<https://mods.vintagestory.at/roamingbees>)~~
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
-* ~~[Kemono](<https://mods.vintagestory.at/kemono>)~~
+* [Kemono](<https://mods.vintagestory.at/kemono>)
 * [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
 * [Auto Map Markers](<https://mods.vintagestory.at/automapmarkers>)
 * ~~[Cartographer](<https://mods.vintagestory.at/nbcartographer>)~~
