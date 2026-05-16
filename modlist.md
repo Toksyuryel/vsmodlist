@@ -5,6 +5,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Draconis](<https://mods.vintagestory.at/draconis>)
 * [VS Roofing Mod](<https://mods.vintagestory.at/show/mod/30143>)
 * [Butchering](<https://mods.vintagestory.at/butchering>)
+* [Simple Pottery Wheel](<https://mods.vintagestory.at/show/mod/4980>)
 * [Fuel Briquettes](<https://mods.vintagestory.at/show/mod/39396>)
 * [From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)
 * ~~[Olla](<https://mods.vintagestory.at/olla>)~~
@@ -18,6 +19,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Wool & More](<https://mods.vintagestory.at/wool>)
 * [Tailor's Delight](<https://mods.vintagestory.at/tailorsdelight>)
 * [Immersive Fibercraft](<https://mods.vintagestory.at/show/mod/34327>)
+* [TinkerTailor Patchworks](<https://mods.vintagestory.at/show/mod/49929>)
 * [Upholstery](<https://mods.vintagestory.at/upholstery>)
 * [Heraldry: Core](<https://mods.vintagestory.at/heraldry>)
 * [Heraldry: Banners](<https://mods.vintagestory.at/heraldrybanners>)
@@ -81,6 +83,7 @@ Planned modlist for 1.22 Vintage Story server:
 **Client**
 
 * ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
+* [Dark Vision](<https://mods.vintagestory.at/darkvision>)
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
 * [Kemono](<https://mods.vintagestory.at/kemono>)
 * [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
