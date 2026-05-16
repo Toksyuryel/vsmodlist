@@ -6,8 +6,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [VS Roofing Mod](<https://mods.vintagestory.at/show/mod/30143>)
 * [Butchering](<https://mods.vintagestory.at/butchering>)
 * [Fuel Briquettes](<https://mods.vintagestory.at/show/mod/39396>)
-* ~~[From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)~~
-* ~~[OrekiWoof's Simple Immersive Beehive](<https://mods.vintagestory.at/orekiwoofsbeehives>)~~
+* [From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)
 * ~~[Olla](<https://mods.vintagestory.at/olla>)~~
 * [Eternal Stew](<https://mods.vintagestory.at/eternalstew>)
 * [A Culinary Artillery](<https://mods.vintagestory.at/aculinaryartillery>)
@@ -39,7 +38,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Stone Quarry Standalone Repack](<https://mods.vintagestory.at/stonequarystandalonerepack>)
 * ~~[Ancient Tools](<https://mods.vintagestory.at/ancienttools>)~~
 * [Infantry Dolabra](<https://mods.vintagestory.at/show/mod/39547>)
-* ~~[Toolsmith](<https://mods.vintagestory.at/toolsmith>)~~
+* [Toolsmith](<https://mods.vintagestory.at/toolsmith>)
 * [Hide Armor Progression](<https://mods.vintagestory.at/hidearmor>)
 * [Comfy Beds](<https://mods.vintagestory.at/show/mod/48158>)
 * [Bookends](<https://mods.vintagestory.at/bookends>)
@@ -82,7 +81,6 @@ Planned modlist for 1.22 Vintage Story server:
 **Client**
 
 * ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
-* ~~[OrekiWoof's Roaming Bees](<https://mods.vintagestory.at/roamingbees>)~~
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
 * [Kemono](<https://mods.vintagestory.at/kemono>)
 * [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
