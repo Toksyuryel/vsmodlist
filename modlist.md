@@ -8,6 +8,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Simple Pottery Wheel](<https://mods.vintagestory.at/show/mod/4980>)
 * [Fuel Briquettes](<https://mods.vintagestory.at/show/mod/39396>)
 * [From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)
+* [Shadehouse](<https://mods.vintagestory.at/shadehouse>)
 * ~~[Olla](<https://mods.vintagestory.at/olla>)~~
 * [Eternal Stew](<https://mods.vintagestory.at/eternalstew>)
 * [A Culinary Artillery](<https://mods.vintagestory.at/aculinaryartillery>)
@@ -57,17 +58,19 @@ Planned modlist for 1.22 Vintage Story server:
 * [Smithing Plus](<https://mods.vintagestory.at/smithingplus>)
 * [QP's Chisel Tools](<https://mods.vintagestory.at/chiseltools>)
 * [Carry On](<https://mods.vintagestory.at/carryon>)
+* [Toned Down Predators Fork](<https://mods.vintagestory.at/show/mod/49794>)
 * [Blood Trail](<https://mods.vintagestory.at/bloodtrail>)
 * [Footprints](<https://mods.vintagestory.at/footprints>)
 * [Immersive Wood Chopping](<https://mods.vintagestory.at/immersivewoodchopping>)
 * [Salty's Workshop: Scythe Fix](<https://mods.vintagestory.at/fixscythe>)
 * [Shelf Obsessed](<https://mods.vintagestory.at/shelfobsessed>)
 * [BetterEr Prospecting](<https://mods.vintagestory.at/bettererprospecting>)
-* ~~[Juicy Ores \[Finished\]](<https://mods.vintagestory.at/juicyores>)~~
 * [Visible Ores and Minerals](<https://mods.vintagestory.at/visibleoresandminerals>)
 * [No Roofing Recipes](<https://mods.vintagestory.at/noroofingrecipes>)
 * [Salty's Manual: Dishes](<https://mods.vintagestory.at/manualdishes>)
 * [Salty's Manual: Dough](<https://mods.vintagestory.at/manualdough>)
+* [Four Oil Lamps](<https://mods.vintagestory.at/fouroillamps>)
+* [who let the pot out](<https://mods.vintagestory.at/wholtpo>)
 * [Salty's Mists of Stability](<https://mods.vintagestory.at/mistsofstability>)
 * [Blacksmith Name](<https://mods.vintagestory.at/show/mod/1910>)
 * ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
