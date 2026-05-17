@@ -25,7 +25,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Heraldry: Banners](<https://mods.vintagestory.at/heraldrybanners>)
 * [Heraldry: Capes](<https://mods.vintagestory.at/capes>)
 * [Food Shelves](<https://mods.vintagestory.at/foodshelves>)
-* ~~[Purposeful Storage](<https://mods.vintagestory.at/purposefulstorage>)~~
+* [Purposeful Storage](<https://mods.vintagestory.at/purposefulstorage>)
 * [Hanging Storage Vessels](<https://mods.vintagestory.at/show/mod/44822>)
 * [Arrow Barrels](<https://mods.vintagestory.at/arrowbarrels>)
 * [Window Storage](<https://mods.vintagestory.at/windowstorage>)
