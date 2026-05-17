@@ -63,6 +63,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Footprints](<https://mods.vintagestory.at/footprints>)
 * [Immersive Wood Chopping](<https://mods.vintagestory.at/immersivewoodchopping>)
 * [Salty's Workshop: Scythe Fix](<https://mods.vintagestory.at/fixscythe>)
+* [Farmland Drops With Nutrients](<https://mods.vintagestory.at/farmlanddropswithnutrients>)
 * [Shelf Obsessed](<https://mods.vintagestory.at/shelfobsessed>)
 * [BetterEr Prospecting](<https://mods.vintagestory.at/bettererprospecting>)
 * [Visible Ores and Minerals](<https://mods.vintagestory.at/visibleoresandminerals>)
