@@ -1,7 +1,6 @@
 Planned modlist for 1.22 Vintage Story server:
 
 **Content**
-
 * [Draconis](<https://mods.vintagestory.at/draconis>)
 * [VS Roofing Mod](<https://mods.vintagestory.at/show/mod/30143>)
 * [Butchering](<https://mods.vintagestory.at/butchering>)
@@ -39,7 +38,6 @@ Planned modlist for 1.22 Vintage Story server:
 * [NDL ExpandedGrowth (Mushroom Growth Module)](<https://mods.vintagestory.at/ndlexpandedgrowthmushrooms>)
 * [Stoneworks](<https://mods.vintagestory.at/stoneworks>)
 * [Stone Quarry Standalone Repack](<https://mods.vintagestory.at/stonequarystandalonerepack>)
-* ~~[Ancient Tools](<https://mods.vintagestory.at/ancienttools>)~~
 * [Infantry Dolabra](<https://mods.vintagestory.at/show/mod/39547>)
 * [Toolsmith](<https://mods.vintagestory.at/toolsmith>)
 * [Hide Armor Progression](<https://mods.vintagestory.at/hidearmor>)
@@ -49,11 +47,12 @@ Planned modlist for 1.22 Vintage Story server:
 * ~~[Instruments](<https://mods.vintagestory.at/show/mod/463>)~~
 * [Drunkling's Stoneware Jug](<https://mods.vintagestory.at/show/mod/34724>)
 * [Adventurer's Walking Stick](<https://mods.vintagestory.at/show/mod/34545>)
-* ~~[Expanded Molds](<https://mods.vintagestory.at/expandedmolds>)~~
 * [Wear and Tear](<https://mods.vintagestory.at/wearandtear>)
 
 **Utility**
-
+* [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
+* [Auto Map Markers](<https://mods.vintagestory.at/automapmarkers>)
+* ~~[Cartographer](<https://mods.vintagestory.at/nbcartographer>)~~
 * [Trait Acquirer Modded Class Support](<https://mods.vintagestory.at/show/mod/36975>)
 * [Low Light Spawns](<https://mods.vintagestory.at/lowlightspawns>)
 * [Salty's Click up Torches](<https://mods.vintagestory.at/clickuptorches>)
@@ -61,57 +60,41 @@ Planned modlist for 1.22 Vintage Story server:
 * [QP's Chisel Tools](<https://mods.vintagestory.at/chiseltools>)
 * [Carry On](<https://mods.vintagestory.at/carryon>)
 * [Toned Down Predators Fork](<https://mods.vintagestory.at/show/mod/49794>)
-* [Blood Trail](<https://mods.vintagestory.at/bloodtrail>)
-* [Footprints](<https://mods.vintagestory.at/footprints>)
 * [Immersive Wood Chopping](<https://mods.vintagestory.at/immersivewoodchopping>)
 * [Salty's Workshop: Scythe Fix](<https://mods.vintagestory.at/fixscythe>)
 * [Farmland Drops With Nutrients](<https://mods.vintagestory.at/farmlanddropswithnutrients>)
 * [Shelf Obsessed](<https://mods.vintagestory.at/shelfobsessed>)
 * [BetterEr Prospecting](<https://mods.vintagestory.at/bettererprospecting>)
-* [Visible Ores and Minerals](<https://mods.vintagestory.at/visibleoresandminerals>)
 * [No Roofing Recipes](<https://mods.vintagestory.at/noroofingrecipes>)
 * [Salty's Manual: Dishes](<https://mods.vintagestory.at/manualdishes>)
 * [Salty's Manual: Dough](<https://mods.vintagestory.at/manualdough>)
 * [Four Oil Lamps](<https://mods.vintagestory.at/fouroillamps>)
 * [who let the pot out](<https://mods.vintagestory.at/wholtpo>)
 * [Render Fat](<https://mods.vintagestory.at/show/mod/44943>)
-* [Salty's Mists of Stability](<https://mods.vintagestory.at/mistsofstability>)
-* [Blacksmith Name](<https://mods.vintagestory.at/show/mod/1910>)
 * ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
 * [Immersive Corpse Drop](<https://mods.vintagestory.at/immersivecorpsedrop>)
 * ~~[Boat Tags](<https://mods.vintagestory.at/boattags>)~~
 
-**Performance**
-
-* [Synergy](<https://mods.vintagestory.at/synergy>)
-* [OptiTime](<https://mods.vintagestory.at/optitime>)
-* [Tungsten](<https://mods.vintagestory.at/tungsten>)
-
-**Client**
-
-* ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
+**Visual**
+* [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
+* [Infinitum Pickup HUD](<https://mods.vintagestory.at/infinitumpickuphud>)
+* ~~[Salty & Proto's Temporal Symphony](<https://mods.vintagestory.at/temporalsymphony>)~~
+* [Handbook Declutterer](<https://mods.vintagestory.at/handbookdeclutterer>)
+* [Blood Trail](<https://mods.vintagestory.at/bloodtrail>)
+* [Footprints](<https://mods.vintagestory.at/footprints>)
+* [Blacksmith Name](<https://mods.vintagestory.at/show/mod/1910>)
+* [Visible Ores and Minerals](<https://mods.vintagestory.at/visibleoresandminerals>)
 * [Featherborn (Beta)](<https://mods.vintagestory.at/featherborn>)
 * [KCs Dragon Player!](<https://mods.vintagestory.at/kcsdragons>)
 * [Experiment Player Model](<https://mods.vintagestory.at/expieplayermodel>)
 * [Fluffy Dreg](<https://mods.vintagestory.at/fluffydreg>)
 * [Arachnoids](<https://mods.vintagestory.at/arachnoids>)
-* [Dark Vision](<https://mods.vintagestory.at/darkvision>)
-* [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
-* [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
-* [Auto Map Markers](<https://mods.vintagestory.at/automapmarkers>)
-* ~~[Cartographer](<https://mods.vintagestory.at/nbcartographer>)~~
-* [Geology Map](<https://mods.vintagestory.at/geologymap>)
-* [Infinitum Pickup HUD](<https://mods.vintagestory.at/infinitumpickuphud>)
-* [More HUD Bars](<https://mods.vintagestory.at/morehudbars>)
-* [HUD Clock](<https://mods.vintagestory.at/hudclock>)
-* [Status HUD Continued](<https://mods.vintagestory.at/show/mod/9817>)
-* ~~[Speedometer](<https://mods.vintagestory.at/show/mod/42156>)~~
-* [Temporal Storm Gear](<https://mods.vintagestory.at/temporalstormgear>)
-* ~~[Salty & Proto's Temporal Symphony](<https://mods.vintagestory.at/temporalsymphony>)~~
-* [Handbook Declutterer](<https://mods.vintagestory.at/handbookdeclutterer>)
+
+**Performance**
+* [Synergy](<https://mods.vintagestory.at/synergy>)
+* [Tungsten](<https://mods.vintagestory.at/tungsten>)
 
 **Library**
-
 * [Player Model Lib](<https://mods.vintagestory.at/playermodellib>)
 * [Overhaul lib](<https://mods.vintagestory.at/overhaullib>)
 * [JSON Patches lib](<https://mods.vintagestory.at/jsonpatcheslib>)
@@ -120,10 +103,24 @@ Planned modlist for 1.22 Vintage Story server:
 * ~~[Elk Jaunt Integration](<https://mods.vintagestory.at/elkjaunt>)~~
 * [ShearLib](<https://mods.vintagestory.at/shearlib>)
 * [Window Storage lib](<https://mods.vintagestory.at/windowstoragelib>)
-* [HUD Shelf](<https://mods.vintagestory.at/hudshelf>)
 * [Insanity lib](<https://mods.vintagestory.at/insanitylib>)
 * [Attribute Rendering Library](<https://mods.vintagestory.at/attributerenderinglibrary>)
 * [Algernon's Terrain Sampler Lib](<https://mods.vintagestory.at/algernonsterrainsampler>)
 * [Config lib](<https://mods.vintagestory.at/configlib>)
 * [Auto Config lib](<https://mods.vintagestory.at/autoconfiglib>)
 * [ImGui](<https://mods.vintagestory.at/imgui>)
+
+**Client**
+
+(You must install these manually, the server will not download them for you)
+* [OptiTime](<https://mods.vintagestory.at/optitime>)
+* [Salty's Mists of Stability](<https://mods.vintagestory.at/mistsofstability>)
+* ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
+* [Dark Vision](<https://mods.vintagestory.at/darkvision>)
+* [Geology Map](<https://mods.vintagestory.at/geologymap>)
+* [More HUD Bars](<https://mods.vintagestory.at/morehudbars>)
+* [HUD Clock](<https://mods.vintagestory.at/hudclock>)
+* [HUD Shelf](<https://mods.vintagestory.at/hudshelf>)
+* [Status HUD Continued](<https://mods.vintagestory.at/show/mod/9817>)
+* ~~[Speedometer](<https://mods.vintagestory.at/show/mod/42156>)~~
+* [Temporal Storm Gear](<https://mods.vintagestory.at/temporalstormgear>)
