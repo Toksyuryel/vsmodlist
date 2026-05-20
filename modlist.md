@@ -55,6 +55,8 @@ Planned modlist for 1.22 Vintage Story server:
 **Utility**
 
 * [Trait Acquirer Modded Class Support](<https://mods.vintagestory.at/show/mod/36975>)
+* [Low Light Spawns](<https://mods.vintagestory.at/lowlightspawns>)
+* [Salty's Click up Torches](<https://mods.vintagestory.at/clickuptorches>)
 * [Smithing Plus](<https://mods.vintagestory.at/smithingplus>)
 * [QP's Chisel Tools](<https://mods.vintagestory.at/chiseltools>)
 * [Carry On](<https://mods.vintagestory.at/carryon>)
@@ -72,6 +74,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Salty's Manual: Dough](<https://mods.vintagestory.at/manualdough>)
 * [Four Oil Lamps](<https://mods.vintagestory.at/fouroillamps>)
 * [who let the pot out](<https://mods.vintagestory.at/wholtpo>)
+* [Render Fat](<https://mods.vintagestory.at/show/mod/44943>)
 * [Salty's Mists of Stability](<https://mods.vintagestory.at/mistsofstability>)
 * [Blacksmith Name](<https://mods.vintagestory.at/show/mod/1910>)
 * ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
@@ -87,9 +90,14 @@ Planned modlist for 1.22 Vintage Story server:
 **Client**
 
 * ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
+* [Player Model Lib](<https://mods.vintagestory.at/playermodellib>)
+* [Featherborn (Beta)](<https://mods.vintagestory.at/featherborn>)
+* [KCs Dragon Player!](<https://mods.vintagestory.at/kcsdragons>)
+* [Experiment Player Model](<https://mods.vintagestory.at/expieplayermodel>)
+* [Fluffy Dreg](<https://mods.vintagestory.at/fluffydreg>)
+* [Arachnoids](<https://mods.vintagestory.at/arachnoids>)
 * [Dark Vision](<https://mods.vintagestory.at/darkvision>)
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
-* [Kemono](<https://mods.vintagestory.at/kemono>)
 * [Prospect Together](<https://mods.vintagestory.at/prospecttogether>)
 * [Auto Map Markers](<https://mods.vintagestory.at/automapmarkers>)
 * ~~[Cartographer](<https://mods.vintagestory.at/nbcartographer>)~~
@@ -105,6 +113,8 @@ Planned modlist for 1.22 Vintage Story server:
 
 **Library**
 
+* [Overhaul lib](<https://mods.vintagestory.at/overhaullib>)
+* [JSON Patches lib](<https://mods.vintagestory.at/jsonpatcheslib>)
 * [Expanded Matter](<https://mods.vintagestory.at/em>)
 * [Jaunt: Entity Movement System](<https://mods.vintagestory.at/jaunt>)
 * ~~[Elk Jaunt Integration](<https://mods.vintagestory.at/elkjaunt>)~~
