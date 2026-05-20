@@ -89,6 +89,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Experiment Player Model](<https://mods.vintagestory.at/expieplayermodel>)
 * [Fluffy Dreg](<https://mods.vintagestory.at/fluffydreg>)
 * [Arachnoids](<https://mods.vintagestory.at/arachnoids>)
+* [Builders of Men](<https://mods.vintagestory.at/buildersofmen>)
 
 **Performance**
 * [Synergy](<https://mods.vintagestory.at/synergy>)
