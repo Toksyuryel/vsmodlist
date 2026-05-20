@@ -90,7 +90,6 @@ Planned modlist for 1.22 Vintage Story server:
 **Client**
 
 * ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
-* [Player Model Lib](<https://mods.vintagestory.at/playermodellib>)
 * [Featherborn (Beta)](<https://mods.vintagestory.at/featherborn>)
 * [KCs Dragon Player!](<https://mods.vintagestory.at/kcsdragons>)
 * [Experiment Player Model](<https://mods.vintagestory.at/expieplayermodel>)
@@ -113,6 +112,7 @@ Planned modlist for 1.22 Vintage Story server:
 
 **Library**
 
+* [Player Model Lib](<https://mods.vintagestory.at/playermodellib>)
 * [Overhaul lib](<https://mods.vintagestory.at/overhaullib>)
 * [JSON Patches lib](<https://mods.vintagestory.at/jsonpatcheslib>)
 * [Expanded Matter](<https://mods.vintagestory.at/em>)
