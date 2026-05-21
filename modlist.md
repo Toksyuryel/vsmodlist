@@ -78,7 +78,7 @@ Planned modlist for 1.22 Vintage Story server:
 **Visual**
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
 * [Infinitum Pickup HUD](<https://mods.vintagestory.at/infinitumpickuphud>)
-* ~~[Salty & Proto's Temporal Symphony](<https://mods.vintagestory.at/temporalsymphony>)~~
+* [Salty & Proto's Temporal Symphony](<https://mods.vintagestory.at/temporalsymphony>)
 * [Handbook Declutterer](<https://mods.vintagestory.at/handbookdeclutterer>)
 * [Blood Trail](<https://mods.vintagestory.at/bloodtrail>)
 * [Footprints](<https://mods.vintagestory.at/footprints>)
