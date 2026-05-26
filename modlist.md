@@ -73,7 +73,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Render Fat](<https://mods.vintagestory.at/show/mod/44943>)
 * ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
 * [Immersive Corpse Drop](<https://mods.vintagestory.at/immersivecorpsedrop>)
-* ~~[Boat Tags](<https://mods.vintagestory.at/boattags>)~~
+* [Boat Tags](<https://mods.vintagestory.at/boattags>)
 
 **Visual**
 * [Farseer](<https://mods.vintagestory.at/show/mod/22371>)
