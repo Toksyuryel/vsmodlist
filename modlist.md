@@ -42,6 +42,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Toolsmith](<https://mods.vintagestory.at/toolsmith>)
 * [Hide Armor Progression](<https://mods.vintagestory.at/hidearmor>)
 * [Comfy Beds](<https://mods.vintagestory.at/show/mod/48158>)
+* [Notice Board](<https://mods.vintagestory.at/noticeboard>)
 * [Bookends](<https://mods.vintagestory.at/bookends>)
 * [Tabletop Games](<https://mods.vintagestory.at/tabletopgames>)
 * ~~[Instruments](<https://mods.vintagestory.at/show/mod/463>)~~
@@ -71,7 +72,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Four Oil Lamps](<https://mods.vintagestory.at/fouroillamps>)
 * [who let the pot out](<https://mods.vintagestory.at/wholtpo>)
 * [Render Fat](<https://mods.vintagestory.at/show/mod/44943>)
-* ~~[Player Corpse](<https://mods.vintagestory.at/playercorpse>)~~
+* [NDL Graves](<https://mods.vintagestory.at/ndlgraves>)
 * [Immersive Corpse Drop](<https://mods.vintagestory.at/immersivecorpsedrop>)
 * [Boat Tags](<https://mods.vintagestory.at/boattags>)
 
