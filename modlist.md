@@ -111,6 +111,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Config lib](<https://mods.vintagestory.at/configlib>)
 * [Auto Config lib](<https://mods.vintagestory.at/autoconfiglib>)
 * [ImGui](<https://mods.vintagestory.at/imgui>)
+* [Infinitum Core](<https://mods.vintagestory.at/infinitumcore>)
 
 **Client**
 
