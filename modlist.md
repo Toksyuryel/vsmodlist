@@ -8,7 +8,7 @@ Planned modlist for 1.22 Vintage Story server:
 * [Fuel Briquettes](<https://mods.vintagestory.at/show/mod/39396>)
 * [From Golden Combs](<https://mods.vintagestory.at/fromgoldencombs>)
 * [Shadehouse](<https://mods.vintagestory.at/shadehouse>)
-* ~~[Olla](<https://mods.vintagestory.at/olla>)~~
+* [Olla](<https://mods.vintagestory.at/olla>)
 * [Eternal Stew](<https://mods.vintagestory.at/eternalstew>)
 * [A Culinary Artillery](<https://mods.vintagestory.at/aculinaryartillery>)
 * ~~[Expanded Foods](<https://mods.vintagestory.at/expandedfoods>)~~
@@ -118,7 +118,7 @@ Planned modlist for 1.22 Vintage Story server:
 (You must install these manually, the server will not download them for you)
 * [OptiTime](<https://mods.vintagestory.at/optitime>)
 * [Salty's Mists of Stability](<https://mods.vintagestory.at/mistsofstability>)
-* ~~[Glassview](<https://mods.vintagestory.at/show/mod/36414>)~~
+* [Glassview](<https://mods.vintagestory.at/show/mod/36414>)
 * [Dark Vision](<https://mods.vintagestory.at/darkvision>)
 * [Geology Map](<https://mods.vintagestory.at/geologymap>)
 * [More HUD Bars](<https://mods.vintagestory.at/morehudbars>)
